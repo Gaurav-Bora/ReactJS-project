@@ -1,0 +1,32 @@
+#for-css{
+    margin-left: 30px;
+}
+
+.nav-element{
+    color: rgb(61, 55, 55);
+    text-decoration: none;
+    margin: 8px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.yamak{
+    color: rgb(41, 41, 222);
+    text-decoration: none;
+    margin-left: 5px;
+    font-weight: bolder;
+    font-size: 30px;
+    
+}
+
+.img-set{
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.image{
+    width: 40px;
+}
+.refresh{
+    width:30px;
+}
